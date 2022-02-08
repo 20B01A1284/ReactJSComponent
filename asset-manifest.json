@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactJSComponent/static/css/main.bb167ec3.css",
+    "main.js": "/ReactJSComponent/static/js/main.bf1a6367.js",
+    "static/media/iot.png": "/ReactJSComponent/static/media/iot.407d584357247eb12e85.png",
+    "index.html": "/ReactJSComponent/index.html",
+    "main.bb167ec3.css.map": "/ReactJSComponent/static/css/main.bb167ec3.css.map",
+    "main.bf1a6367.js.map": "/ReactJSComponent/static/js/main.bf1a6367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb167ec3.css",
+    "static/js/main.bf1a6367.js"
+  ]
+}
